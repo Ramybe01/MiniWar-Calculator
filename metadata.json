@@ -1,0 +1,6 @@
+{
+  "name": "MiniWar Pazar",
+  "description": "Roblox MiniWar oyunu için pazar ekonomisi ve kazanç hesaplayıcı",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
